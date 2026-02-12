@@ -394,4 +394,5 @@ body {
 @keyframes watchPlane {
     0%, 100% { transform: rotate(0deg); }
     50% { transform: rotate(-30deg); } /* ເງີຍໜ້າຂຶ້ນ */
+
 }
